@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    height: 70px;
+    align-items: center;
+}
+
+.logo {
+    width: 500px;
+}
+
+.navList {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+}
+
+.navList li {
+    padding: 15px;
+    margin: 0 25px;
+    font-weight: 600px;
+}
+
+.gitLogo {
+    width: 300px;
+    display: flex;
+    justify-content: end;
+}
+
+.github-logo {
+    width: 50px;
+}
