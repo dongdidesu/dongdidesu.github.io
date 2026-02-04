@@ -1,0 +1,23 @@
+.about-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.about-division {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.about-division h1 {
+    width: 100px;
+}
+
+.about-division div {
+    background-color: 6D88D7;
+    height: 5px;
+    padding: 2px;
+    border-radius: 11px;
+    flex: 1;
+}
